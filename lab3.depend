@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1676667340 source:c:\users\hp\downloads\01-hello c programming\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1676667340 source:c:\users\hp\downloads\01-hello c programming\lab3\calc.c
+
+1676668390 c:\users\hp\downloads\01-hello c programming\lab3\calc.h
+
